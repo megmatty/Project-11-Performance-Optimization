@@ -12,6 +12,7 @@ This is my 11th project for Treehouse Techdegree: Front End Developer.
 * Should be 22-24 HTTP requests, depending on which browser's dev tools you use
 * Page weight should fall between 949kb and 1.10MB, again reported slightly differently by each browser
 * CSS/JS were minified and images resized as much as I felt comfortable to get within page weight requirements.
+* Left all project files, old and new, included for comparison (only linked the files I used)
 
 **Needs Work, Need to Learn, and Thoughts:**
 * I need to go back and spend some serious time with Gulp and automation tasks. Real life constraints prevented me from really exploring
